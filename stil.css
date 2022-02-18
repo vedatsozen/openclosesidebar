@@ -1,0 +1,36 @@
+body {
+
+margin: auto;
+background-color: beige;
+margin-top:0px;
+display: flex;
+}
+
+
+
+
+button {
+
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    font-family: 'Oswald', sans-serif;
+}
+
+#sidebar {
+
+margin: auto;
+margin-right: 0px;
+height: 100vh;
+background-color:black;
+width: 150px;
+text-align: center;
+color: white;
+font-size: 50px;
+line-height: 100vh;
+font-family: 'Oswald', sans-serif;
+overflow: hidden;
+
+
+
+}
